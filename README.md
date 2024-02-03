@@ -1,6 +1,6 @@
 # LeetCode
 ### To practice improving my coding skills
-
+#### Binary Search
 - [704. Binary Search](https://github.com/zhengshunze/leetcode/blob/main/Binary%20Search/704.py)  
 - [278. First Bad Version](https://github.com/zhengshunze/leetcode/blob/main/Binary%20Search/278.py)  
 - [69. Sqrt(x)](https://github.com/zhengshunze/leetcode/blob/main/Binary%20Search/69.py)  
