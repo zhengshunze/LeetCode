@@ -6,3 +6,5 @@
 - [69. Sqrt(x)](https://github.com/zhengshunze/leetcode/blob/main/Binary%20Search/69.py)  
 - [349. Intersection of Two Arrays](https://github.com/zhengshunze/leetcode/blob/main/Binary%20Search/349.py)
 - [1099. Two Sum Less Than K binary search](https://github.com/zhengshunze/leetcode/blob/main/Binary%20Search/1099.py)
+#### 🧹 Select Sort
+- [912. Sort an Array](https://github.com/zhengshunze/LeetCode/blob/main/Select%20Sort/912.py) 
