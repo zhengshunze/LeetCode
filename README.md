@@ -9,3 +9,5 @@
 #### 🧹 Select Sort
 - [912. Sort an Array](https://github.com/zhengshunze/LeetCode/blob/main/Select%20Sort/912.py) 
 - [347. Top K Frequent Elements](https://github.com/zhengshunze/LeetCode/blob/main/Select%20Sort/347.py) 
+#### 😃 Quicksort
+- [75. Sort Colors](https://github.com/zhengshunze/LeetCode/blob/main/Quick%20Sort/75.py)
